@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.video.alval.tv" name="ALVAL IPTV Player" version="1.0.10" provider-name="ALVAL &amp; Co">
+<addon id="plugin.video.alval.tv" name="ALVAL IPTV Player" version="1.1.0" provider-name="ALVAL &amp; Co">
   <requires>
     <import addon="xbmc.python" version="2.14.0"/>
     <import addon="plugin.video.pulsar" version="0.6.1"/>
